@@ -24,11 +24,11 @@ const greeting = {
   username: "Saumya Chaudhary",
   title: "Hi all, I'm Saumya",
   subTitle: emoji(
-    "A passionate Software and Machine Learning Engineer 🚀 have an experience of backend development with Python / Flask API framework and Python Libaries, always looking for new experiences"
+    "A passionate Software and Machine Learning Engineer 🚀 with experience in backend development using Python, Flask API framework, and Python libraries. Actively seeking a summer internship for 2025."
   ),
   resumeLink:
     //1ksxEdlyWYt6gCi-0XBpZ3u30z6Ls_sHH
-    "https://drive.google.com/uc?export=download&id=1fhcEHeRqAVI_W_aGykGNoW6OF5NC19tq", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1fhcEHeRqAVI_W_aGykGNoW6OF5NC19tq/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -56,14 +56,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Outgoing person who loves to learn new technolgies and do problem solving each day",
+  subTitle: "Outgoing person who loves to learn new technolgies",
   skills: [
     emoji(
-      "⚡ Develop backend interface using APIs, do database integration using SQL"
+      "⚡ Design and implement backend interfaces using APIs, integrating them with SQL and No-SQL databases"
     ),
-    emoji("⚡ Work on Machine Learning Algorithms and Python Library for model-making"),
+    emoji("⚡ Develop machine learning algorithms and leverage Python libraries to address detection and classification challenges"),
     emoji(
-      "⚡ Data Analysis and abstraction to extract meaningful insights"
+      "⚡ Perform data analysis and abstraction to derive actionable insights"
     )
   ],
 
@@ -247,7 +247,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Projects",
   //subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -262,18 +262,18 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    /*
+    
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "House Price Prediction Model",
-      projectDesc: "Took a dataset from Kaggle and did a regression analysis on the data while checking OLS assumptions and multi-collinearity. The regression analysis gave an R-squared value of 0.837, thus indicating that the model can predict house prices with an accuracy of 83%.",
+      image: require("./assets/images/architecture.PNG"),
+      projectName: "Melanoma Cancer Cell Dectection Problem",
+      projectDesc: "Classified skin cells as melanoma or non-melanoma using a Deep Convolutional Neural Network (DCNN), applying data augentation and class imbalance handling to improve accuracy, achieving 92% on a dataset of 2,000 images across 9 cancer cell classes.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Project Link",
+          url: "https://github.com/SaumyaC11/Melanoma_Cell_Detection"
         }
       ]
-    }*/
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
