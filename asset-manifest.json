@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SaumyaChaudharyPortfolio/static/css/main.76dd87fd.css",
-    "main.js": "/SaumyaChaudharyPortfolio/static/js/main.e12e90cc.js",
+    "main.js": "/SaumyaChaudharyPortfolio/static/js/main.8dc99bd2.js",
     "static/css/487.bb36206c.chunk.css": "/SaumyaChaudharyPortfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/SaumyaChaudharyPortfolio/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/SaumyaChaudharyPortfolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/SaumyaChaudharyPortfolio/static/js/990.567a0b93.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/SaumyaChaudharyPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/Saumya Chaudhary Resume.pdf": "/SaumyaChaudharyPortfolio/static/media/Saumya Chaudhary Resume.fe88e709778888230b2f.pdf",
+    "static/media/resume.pdf": "/SaumyaChaudharyPortfolio/static/media/resume.c2d9572313abb528259b.pdf",
     "static/media/Agustina.woff": "/SaumyaChaudharyPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/architecture.PNG": "/SaumyaChaudharyPortfolio/static/media/architecture.a561f06611ac0eeff71f.PNG",
     "static/media/manOnTable.svg": "/SaumyaChaudharyPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -23,7 +23,7 @@
     "static/media/leetcode.webp": "/SaumyaChaudharyPortfolio/static/media/leetcode.143a1d3bbaa982ed0fb4.webp",
     "static/media/talksCardBack.svg": "/SaumyaChaudharyPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.76dd87fd.css.map": "/SaumyaChaudharyPortfolio/static/css/main.76dd87fd.css.map",
-    "main.e12e90cc.js.map": "/SaumyaChaudharyPortfolio/static/js/main.e12e90cc.js.map",
+    "main.8dc99bd2.js.map": "/SaumyaChaudharyPortfolio/static/js/main.8dc99bd2.js.map",
     "487.bb36206c.chunk.css.map": "/SaumyaChaudharyPortfolio/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/SaumyaChaudharyPortfolio/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/SaumyaChaudharyPortfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.76dd87fd.css",
-    "static/js/main.e12e90cc.js"
+    "static/js/main.8dc99bd2.js"
   ]
 }
